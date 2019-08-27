@@ -1,5 +1,5 @@
 # datanotifications
-The goal is to create an automated collection of change notifications (a series of weekly spreadsheets only exposed on a credentialed website) disseminated by Refinitiv on their support website.
+The goal is to create an automated collection of change notifications using Selemium. Change notifications are a series of weekly spreadsheets only exposed on a credentialed website and disseminated by Refinitiv on their support website.
 
 To this end we'll use Python and a specific package called Selenium, which is an adapted package for website automation and testing. 
 
